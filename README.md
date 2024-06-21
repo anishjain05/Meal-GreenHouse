@@ -22,7 +22,7 @@ An overview of the application's task flow:
 
 #### Lo-Fi Designs
 - Primary Lo-Fi Design: [View Primary Lo-Fi Design](https://miro.com/app/board/uXjVP2VNJag=/?share_link_id=166770886406)
-- Alternate Lo-Fi Design: [View Alternate Lo-Fi Design](https://miro.com/app/board/uXjVP2VNJag=/?share_link_id=166770886406)
+- Alternate Lo-Fi Design: Shared in the [PPT PDF file](https://github.com/anishjain05/Meal-GreenHouse/blob/main/Meal%20Greenhouse%20PPT.pdf).
 
 #### Hi-Fi Design
 - [View Hi-Fi Design](https://www.figma.com/proto/tvZ8XXD5zDK2P6CKSHvuqv/HCI-Hi-Fi?node-id=13%3A742&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A742&show-proto-sidebar=1)
