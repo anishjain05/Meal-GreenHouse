@@ -1,6 +1,6 @@
 # Meal-GreenHouse
 
-Elementary front-end design project created as part of the HCI (Human Computer Interaction) Course at IIIT-Delhi.
+Elementary front-end design project created as part of the IHCI (Intro to Human Computer Interaction) Course at IIIT-Delhi.
 
 ## Aim
 To provide a platform where individuals or organizations generating surplus food can connect with organizations capable of distributing leftover food to those in need. This initiative aims to conserve resources and alleviate hunger.
